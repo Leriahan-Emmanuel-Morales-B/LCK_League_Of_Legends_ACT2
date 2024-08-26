@@ -1,0 +1,1 @@
+document.title = "Liga Coreana de League of Legends LCK"
